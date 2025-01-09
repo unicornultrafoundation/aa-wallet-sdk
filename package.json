@@ -1,0 +1,29 @@
+{
+  "name": "aa-wallet-sdk",
+  "version": "0.1.0",
+  "description": "AA wallet SDK and contracts for U2U",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unicornultrafoundation/aa-wallet-sdk.git"
+  },
+  "keywords": [
+    "AA",
+    "wallet",
+    "sdk",
+    "EOA",
+    "passkey",
+    "recoverable"
+  ],
+  "author": "khoau2u",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unicornultrafoundation/aa-wallet-sdk/issues"
+  },
+  "homepage": "https://github.com/unicornultrafoundation/aa-wallet-sdk#readme",
+  "dependencies": {
+  }
+}
